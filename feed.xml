@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Testing</title>
+    <link href="https://kcorey.github.io/feed.xml" rel="self" />
+    <link href="https://kcorey.github.io" />
+    <updated>2022-07-24T13:16:35+01:00</updated>
+    <author>
+        <name>Ken Corey</name>
+    </author>
+    <id>https://kcorey.github.io</id>
+
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Ken Corey</name>
+        </author>
+        <link href="https://kcorey.github.io/home.html"/>
+        <id>https://kcorey.github.io/home.html</id>
+
+        <updated>2022-07-24T13:16:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                    When you come to the site, you should see this page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When you come to the site, you should see this page.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Ken Corey</name>
+        </author>
+        <link href="https://kcorey.github.io/first-post.html"/>
+        <id>https://kcorey.github.io/first-post.html</id>
+
+        <updated>2022-07-24T13:15:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                    So, people think posting is hard. I disagree!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>So, people think posting is hard. I disagree!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
