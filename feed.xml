@@ -3,12 +3,32 @@
     <title>Testing</title>
     <link href="https://kcorey.github.io/feed.xml" rel="self" />
     <link href="https://kcorey.github.io" />
-    <updated>2022-07-24T13:16:35+01:00</updated>
+    <updated>2022-07-24T13:31:40+01:00</updated>
     <author>
         <name>Ken Corey</name>
     </author>
     <id>https://kcorey.github.io</id>
 
+    <entry>
+        <title>Index</title>
+        <author>
+            <name>Ken Corey</name>
+        </author>
+        <link href="https://kcorey.github.io/index.html"/>
+        <id>https://kcorey.github.io/index.html</id>
+
+        <updated>2022-07-24T13:31:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the index.html page, I guess, right?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the index.html page, I guess, right?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Home</title>
         <author>
